@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19AI308-Object-Oriented-Programming-uInterface-with-abstract-methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+899a2d4b2133eaf671055537824bde4a846b8154")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0488a9f7200521e6691639a4599ec1598595091c")]
 [assembly: System.Reflection.AssemblyProductAttribute("19AI308-Object-Oriented-Programming-uInterface-with-abstract-methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19AI308-Object-Oriented-Programming-uInterface-with-abstract-methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
