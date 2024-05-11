@@ -24,8 +24,8 @@ Main method: creates Program object, initiates banking operations based on user 
 
 # PROGRAM :
 ```
-DEVELOPED BY : NAVEEN M
-REG NO : 212222110029
+DEVELOPED BY : HARI PRASATH S
+REG NO : 212222240034
 ```
 ```
 using System;
